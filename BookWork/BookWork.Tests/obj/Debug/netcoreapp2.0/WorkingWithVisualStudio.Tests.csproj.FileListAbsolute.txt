@@ -1,0 +1,16 @@
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.deps.json
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.json
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Austin\Desktop\ASP\Lab 3\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb
